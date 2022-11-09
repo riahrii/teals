@@ -1,4 +1,5 @@
 # teals - level 1 heading 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/riahrii/teals/HEAD)
 
 this is my text under level 1 this is for the **introduction to software technologies** clas at *towers highschool*!blinks are easyt to make - 
 highschool can be found [here](http://www.towershs.dekalb.k12.ga.us)
